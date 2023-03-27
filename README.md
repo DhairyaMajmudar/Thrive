@@ -10,8 +10,8 @@ Thrive is designed for anyone who is looking to improve their wellbeing and over
 
 ## Authors
 
-- [@IshanGupta](https://github.com/ishangupta03)
 - [@DhairyaMajmudar](https://github.com/DhairyaMajmudar)
+- [@IshanGupta](https://github.com/ishangupta03)
 - [@RitikGupta](https://github.com/Ritik654321)
 - [@RiteshGupta](https://github.com/Ritesh456789)
 
