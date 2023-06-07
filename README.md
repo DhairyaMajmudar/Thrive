@@ -7,6 +7,11 @@ Thrive offers a variety of features and resources, including articles on topics 
 
 Thrive is designed for anyone who is looking to improve their wellbeing and overall quality of life. This can include individuals who are experiencing stress, anxiety, or other mental health concerns, as well as those who are simply looking to adopt healthier habits and improve their overall sense of wellbeing. The website may be particularly useful for individuals who may not have access to traditional mental health services, or who may be uncomfortable seeking such services. Additionally, employers and organizations may also find Thrive useful as a tool to support the wellbeing of their employees or members.
 
+## ScreeShot
+![Screenshot 2023-06-07 at 10-38-25 Thrive - Your Way to Good Health](https://github.com/DhairyaMajmudar/Thrive/assets/124715224/054bf2ba-8fa3-4d37-b457-d59f2849f19a)
+
+
+
 
 ## Authors
 
